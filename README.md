@@ -1,0 +1,2 @@
+# PruebaDiagnostica
+Prueba diagnóstica - Trainee
